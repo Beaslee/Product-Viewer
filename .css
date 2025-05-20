@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.details {
+  background: #fff;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
+
+select, input {
+  padding: 6px;
+  font-size: 14px;
+  min-width: 300px;
+  margin-bottom: 10px;
+}
